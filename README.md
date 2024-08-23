@@ -1,2 +1,2 @@
 # learn-github
-Demo version for learning github
+Demo version for learning github.
